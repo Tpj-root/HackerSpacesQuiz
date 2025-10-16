@@ -1,1 +1,11 @@
 # HackerSpacesQuiz
+
+
+
+
+build
+
+
+./gradlew assemble
+
+
